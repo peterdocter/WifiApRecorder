@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">WifiApRecorder</string>
+    <string name="titleName">Wifi Location Recorder</string>
+    <string name="btn_info">get wifi info</string>
+    <string name="btn_scan">scan wifi around</string>
 </resources>
